@@ -1,5 +1,8 @@
 # Project name 
 devops-capstone-project
+
+![Build Status](https://github.com/<OWNER>/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 # project description 
 This is a final Capstone project in  'IBM DevOps sofware professional certificate' course , this project tests all the 
 skills acquired through out this course
