@@ -1,3 +1,9 @@
+# Project name 
+devops-capstone-project
+# project description 
+This is a final Capstone project in  'IBM DevOps sofware professional certificate' course , this project tests all the 
+skills acquired through out this course
+
 # DevOps Capstone Template
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
